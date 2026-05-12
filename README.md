@@ -8,7 +8,7 @@ SQL-queryable through Amazon Athena.
 Built end-to-end to practice the canonical *event-streaming → data-lake →
 serverless-analytics* pattern.
 
-📺 **Demo walkthrough:** [LinkedIn post](https://www.linkedin.com/posts/<your-post-url>)
+📺 **Demo walkthrough:** [LinkedIn post](https://www.linkedin.com/posts/sumanth-malipeddi_dataengineering-apachekafka-aws-ugcPost-7459964977844756480-1Zu6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB7i23IBbQvhLq7peVxZIst-I-VC4yabLg0)
 
 ---
 
